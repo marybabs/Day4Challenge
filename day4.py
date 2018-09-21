@@ -8,8 +8,6 @@ def sum_list(L):
     return total
 print(sum_list([1,2,3,[1,2,3]]))
 
-
-
 def power(x,y):
     if(y==1):
         return(x)
